@@ -1,0 +1,21 @@
+body{
+    background-color: green;
+}
+
+h1{
+    color: red; 
+    font-weight: 900; 
+}
+
+#clients{
+    background-color: aqua;
+}
+
+li{
+    padding: 1rem;
+    list-style: none;
+}
+
+li:nth-child(odd){
+    background-color: beige;
+}
